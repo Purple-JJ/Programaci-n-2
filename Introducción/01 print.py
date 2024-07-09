@@ -1,1 +1,6 @@
 print("Clase 4")
+print(119)
+print(119 + 10)
+print("Me encanta estudiar python")
+print(574 - 119)
+print(674 - 119)
